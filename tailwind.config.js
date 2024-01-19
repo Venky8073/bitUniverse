@@ -15,7 +15,8 @@ module.exports = {
     "./src/screens/roadmap/Roadmap.jsx",
     "./src/components/RoadmapCard.jsx",
     "./src/components/QuoteMark.jsx",
-    "./src/screens/OurTokens/OurTokens.jsx"
+    "./src/screens/OurTokens/OurTokens.jsx",
+    "./src/components/footer.jsx"
   ],
   theme: {
     extend: {},

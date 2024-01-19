@@ -1,4 +1,5 @@
 import './App.css';
+import { Footer } from './components/footer';
 import { OurProduct } from './screens/OurProduct/OurProduct';
 import { OurTokens } from './screens/OurTokens/OurTokens';
 import { Frame } from './screens/frame/Frame';
@@ -15,6 +16,7 @@ function App() {
       <OurProduct/>
       <Roadmap/>
       <OurTokens/>
+      <Footer/>
 
     </div>
   );
