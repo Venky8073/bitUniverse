@@ -1,9 +1,8 @@
 import React from "react";
 import { ButtonDarkText } from "../../components/ButtonDarkText/ButtonDarkText";
-
 export const NavBar = () => {
   return (
-    <div className="flex w-[1360px] items-center justify-between px-[32px] py-[16px] relative bg-[#5b4f0570] rounded-[16px] border border-solid border-transparent">
+    <div className="fixed bg-[#331a04] shadow-md mt-[20px]  z-50 w-[1360px] px-[32px] py-[16px] flex justify-between items-center rounded-[16px]">
       <div className="inline-flex h-[56px] items-center justify-center gap-[8.51px] relative flex-[0_0_auto]">
         <img
           className="relative w-[55.29px] h-[55.29px]"

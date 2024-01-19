@@ -26,7 +26,6 @@ export const OurProduct = () => {
           body="Pellentesque habitant morbi tristique senectus et netus et malesuada Pellentesque habitant morbi tristique senectus et netus et malesuada"
           className="!left-[unset] !top-[unset]"
           element2="https://c.animaapp.com/KXSEpLo7/img/4-4@2x.png"
-        //   elementClassName="!h-px !w-[169px]"
           elementClassNameOverride="!object-cover"
           heading="Bita Marketplace"
           property1="default"
@@ -34,48 +33,33 @@ export const OurProduct = () => {
         <KeyFeatures
           body="Pellentesque habitant morbi tristique senectus et netus et malesuada Pellentesque habitant morbi tristique senectus et netus et malesuada"
           className="!left-[unset] !top-[unset]"
-          element="https://c.animaapp.com/KXSEpLo7/img/106-5@2x.png"
-          element1="https://c.animaapp.com/KXSEpLo7/img/5-4@2x.png"
           element2="https://c.animaapp.com/KXSEpLo7/img/4-3@2x.png"
-          elementClassName="!h-px !w-[169px]"
           elementClassNameOverride="!object-cover"
           heading="Bitadex"
-          img="https://c.animaapp.com/KXSEpLo7/img/105-4@2x.png"
           property1="default"
         />
         <KeyFeatures
           body="Pellentesque habitant morbi tristique senectus et netus et malesuada Pellentesque habitant morbi tristique senectus et netus et malesuada"
           className="!left-[unset] !top-[unset]"
-          element="https://c.animaapp.com/KXSEpLo7/img/106-5@2x.png"
-          element1="https://c.animaapp.com/KXSEpLo7/img/5-4@2x.png"
           element2="https://c.animaapp.com/KXSEpLo7/img/4-2@2x.png"
-          elementClassName="!h-px !w-[169px]"
+          elementClassNameOverride="!object-cover"
           heading="Bitabridge"
-          img="https://c.animaapp.com/KXSEpLo7/img/105-4@2x.png"
           property1="default"
         />
         <KeyFeatures
           body="Pellentesque habitant morbi tristique senectus et netus et malesuada Pellentesque habitant morbi tristique senectus et netus et malesuada"
           className="!left-[unset] !top-[unset]"
-          element="https://c.animaapp.com/KXSEpLo7/img/106-2@2x.png"
-          element1="https://c.animaapp.com/KXSEpLo7/img/5-4@2x.png"
           element2="https://c.animaapp.com/KXSEpLo7/img/4-1@2x.png"
-          elementClassName="!h-px !w-[169px]"
           elementClassNameOverride="!object-cover"
           heading="Bitapad"
-          img="https://c.animaapp.com/KXSEpLo7/img/105-4@2x.png"
           property1="default"
         />
         <KeyFeatures
           body="Pellentesque habitant morbi tristique senectus et netus et malesuada Pellentesque habitant morbi tristique senectus et netus et malesuada"
           className="!left-[unset] !top-[unset]"
-          element="https://c.animaapp.com/KXSEpLo7/img/106-2@2x.png"
-          element1="https://c.animaapp.com/KXSEpLo7/img/5-4@2x.png"
           element2="https://c.animaapp.com/KXSEpLo7/img/4@2x.png"
-          elementClassName="!h-px !w-[169px]"
           elementClassNameOverride="!object-cover"
           heading="BitaLend"
-          img="https://c.animaapp.com/KXSEpLo7/img/105-4@2x.png"
           property1="default"
         />
       </div>
