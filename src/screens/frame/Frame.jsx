@@ -2,7 +2,7 @@ import React from "react";
 
 export const Frame = () => {
   return (
-    <div className="w-[934px] h-[403px] mt-[100px]">
+    <div className="w-[934px] h-[403px] mt-[100px]" id="About">
       <div className="relative w-[769px] h-[353px] top-[33px] left-[45px]">
         <img
           className="absolute w-[720px] h-[184px] top-[10px] left-[12px]"

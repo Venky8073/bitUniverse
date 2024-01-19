@@ -11,7 +11,11 @@ module.exports = {
     "./src/icons/ArrowChevronRightMd3.jsx",
     "./src/screens/frame/FrameGetStarter.jsx",
     "./src/screens/OurProduct/OurProduct.jsx",
-    "./src/components/KeyFeatures.jsx"
+    "./src/components/KeyFeatures.jsx",
+    "./src/screens/roadmap/Roadmap.jsx",
+    "./src/components/RoadmapCard.jsx",
+    "./src/components/QuoteMark.jsx",
+    "./src/screens/OurTokens/OurTokens.jsx"
   ],
   theme: {
     extend: {},

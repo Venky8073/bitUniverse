@@ -22,7 +22,7 @@ export const NavBar = () => {
       </div>
       <div className="inline-flex items-center gap-[32px] relative flex-[0_0_auto]">
         <div className="inline-flex items-center justify-end gap-[8px] relative flex-[0_0_auto]">
-          <ButtonDarkText
+          <a href="#About"><ButtonDarkText
             className="!left-[unset] !justify-center !flex-[0_0_auto] !items-center !bg-[unset] !top-[unset]"
             divClassName="!text-white !text-[18px] !font-medium ![font-family:'Inter',Helvetica]"
             property="hover-active"
@@ -31,8 +31,8 @@ export const NavBar = () => {
             stateProp="default"
             text="About"
             visible={false}
-          />
-          <ButtonDarkText
+          /></a>
+          <a href="#OurProduct"><ButtonDarkText
             className="!left-[unset] !justify-center !flex-[0_0_auto] !items-center !bg-[unset] !top-[unset]"
             divClassName="!text-white !text-[18px] !font-medium ![font-family:'Inter',Helvetica]"
             property="hover-active"
@@ -41,8 +41,8 @@ export const NavBar = () => {
             stateProp="default"
             text="Our Products"
             visible={false}
-          />
-          <ButtonDarkText
+          /></a>
+          <a href="#OurTokens"><ButtonDarkText
             className="!left-[unset] !justify-center !flex-[0_0_auto] !items-center !bg-[unset] !top-[unset]"
             divClassName="!text-white !text-[18px] !font-medium ![font-family:'Inter',Helvetica]"
             property="hover-active"
@@ -51,8 +51,8 @@ export const NavBar = () => {
             stateProp="default"
             text="Token Utility"
             visible={false}
-          />
-          <ButtonDarkText
+          /></a>
+          <a href="#RoadMap"><ButtonDarkText
             className="!left-[unset] !justify-center !flex-[0_0_auto] !items-center !bg-[unset] !top-[unset]"
             divClassName="!text-white !text-[18px] !font-medium ![font-family:'Inter',Helvetica]"
             property="hover-active"
@@ -61,7 +61,7 @@ export const NavBar = () => {
             stateProp="default"
             text="Roadmap"
             visible={false}
-          />
+          /></a>
         </div>
         <div className="relative w-[189px] h-[55px] mr-[-2.00px]">
           <div className="relative w-[187px] h-[55px] bg-[#f9d326] rounded-[10px]">

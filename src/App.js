@@ -1,8 +1,10 @@
 import './App.css';
 import { OurProduct } from './screens/OurProduct/OurProduct';
+import { OurTokens } from './screens/OurTokens/OurTokens';
 import { Frame } from './screens/frame/Frame';
 import { FrameGetStarter } from './screens/frame/FrameGetStarter';
 import { NavBar } from './screens/navbar/NavBar';
+import { Roadmap } from './screens/roadmap/Roadmap';
 
 function App() {
   return (
@@ -11,7 +13,8 @@ function App() {
       <Frame/>
       <FrameGetStarter/>
       <OurProduct/>
-
+      <Roadmap/>
+      <OurTokens/>
 
     </div>
   );
