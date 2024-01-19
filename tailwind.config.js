@@ -9,7 +9,9 @@ module.exports = {
     "./src/components/ArrowChevronRight.jsx",
     "./src/components/Button.jsx",
     "./src/icons/ArrowChevronRightMd3.jsx",
-    "./src/screens/frame/FrameGetStarter.jsx"
+    "./src/screens/frame/FrameGetStarter.jsx",
+    "./src/screens/OurProduct/OurProduct.jsx",
+    "./src/components/KeyFeatures.jsx"
   ],
   theme: {
     extend: {},
