@@ -22,4 +22,6 @@ This React-based cryptocurrency buying website, seamlessly blends functionality 
 Hero page of website.
 
 
+![WhatsApp Image 2024-01-20 at 9 09 34 PM](https://github.com/Venky8073/bitUniverse/assets/118984511/93b9495f-b1dd-4527-b4e5-6d482c627baf)
+
 
