@@ -10,7 +10,7 @@ This React-based cryptocurrency buying website, seamlessly blends functionality 
 
 **Front-End:** HTML | Tailwind-CSS | React
 
-**Back-End [API] :** Node js | Express | MongoBD
+**Back-End :** Node js | Express | MongoBD
 
 
 
@@ -41,3 +41,9 @@ here we can see the products
 
 
 ![WhatsApp Image 2024-01-20 at 9 08 23 PM](https://github.com/Venky8073/bitUniverse/assets/118984511/eba2bb5a-1cbc-4bfd-9b08-4e93537143de)
+
+
+#### Our Tokens :-
+
+
+![WhatsApp Image 2024-01-20 at 9 08 28 PM](https://github.com/Venky8073/bitUniverse/assets/118984511/9e9778e6-efa9-411e-8a08-3a56c5177a22)
